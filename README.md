@@ -4,4 +4,4 @@ An individual class project for Computer Systems Course using C
 
 Files written on my own"
 
-tsh.c -- create a shell 
+tsh.c -- shell implementation
